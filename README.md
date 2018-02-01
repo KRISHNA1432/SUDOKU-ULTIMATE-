@@ -1,5 +1,6 @@
 # SUDOKU-ULTIMATE-
 
+A Sudoku Solution Project For Output According To Alost Every Input Style.
 Simple Sudoku program to solve every possible valid problem can think of...
 
 STEPS : 
